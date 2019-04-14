@@ -1,0 +1,1316 @@
+{
+  "homepages": [],
+  "source_base_path": "/home/travis/build/siggame/Joueur.cs/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.ArgParser.Argument.Store.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.ArgParser.Argument.Store.html",
+          "hash": "bQHzAWAMvQEBaQYPe8nAeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.ArgParser.Argument.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.ArgParser.Argument.html",
+          "hash": "ia4R0aRkSvLr2e0j6mThfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.ArgParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.ArgParser.html",
+          "hash": "JGFzqA0HFvZibDucWlElaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.BaseAI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.BaseAI.html",
+          "hash": "XE/Jh73k2LbfkcL5Tiv2Sg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.BaseGame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.BaseGame.html",
+          "hash": "O9ZM434By4EShlmII2axRg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.BaseGameObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.BaseGameObject.html",
+          "hash": "OR7ogTZgf/xoXuB/vLnJtw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Client.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Client.html",
+          "hash": "G/PvQj8ZurGzw7iUmM8cWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.ErrorHandler.ErrorCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.ErrorHandler.ErrorCode.html",
+          "hash": "b1nwLsirWxZ2sMZXJCaEsQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.ErrorHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.ErrorHandler.html",
+          "hash": "Yjb71IzKfLAJt6dzX1OFaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.GameManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.GameManager.html",
+          "hash": "SAobuWnsOpDrib4wP2OT6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Anarchy.AI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Anarchy.AI.html",
+          "hash": "UKjmYr1FiaIVZa9SuivDsA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Anarchy.Building.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Anarchy.Building.html",
+          "hash": "k9sr81xtW+Nya8ktY75cAg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Anarchy.FireDepartment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Anarchy.FireDepartment.html",
+          "hash": "RGHroYggyKmF3vz69O+8ZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Anarchy.Forecast.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Anarchy.Forecast.html",
+          "hash": "Cfevd+5wL7xinrEgTRUORQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Anarchy.Game.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Anarchy.Game.html",
+          "hash": "sMiywDr6MLy5KbgwX8PNzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Anarchy.GameObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Anarchy.GameObject.html",
+          "hash": "tQOVxZguR3Eiiqwwb7EZCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Anarchy.Player.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Anarchy.Player.html",
+          "hash": "0IihUuAALHgzBwLE6jKvrg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Anarchy.PoliceDepartment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Anarchy.PoliceDepartment.html",
+          "hash": "HgBpUauVfOMD+sIuzCM7EQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Anarchy.Warehouse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Anarchy.Warehouse.html",
+          "hash": "CB4s9YZhEXkOqvkZrPqq6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Anarchy.WeatherStation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Anarchy.WeatherStation.html",
+          "hash": "G0zzfsHEgw6jGOrQA0Cpvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Anarchy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Anarchy.html",
+          "hash": "mtPT4+DlvOoq2DnFtd23OQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Catastrophe.AI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Catastrophe.AI.html",
+          "hash": "VxgT0uJvIRmYnshf3v7z2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Catastrophe.Game.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Catastrophe.Game.html",
+          "hash": "2ydYiWbZztcgB1BWZ9Y1mg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Catastrophe.GameObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Catastrophe.GameObject.html",
+          "hash": "9VE+al+yyFg7R6nJTth9Mw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Catastrophe.Job.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Catastrophe.Job.html",
+          "hash": "R47hWeqvvP/cCdUArbCnPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Catastrophe.Player.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Catastrophe.Player.html",
+          "hash": "asGRD8CoELJhYpV9p6nkVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Catastrophe.Structure.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Catastrophe.Structure.html",
+          "hash": "SXF3LpQZipjY3PO94v4wFw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Catastrophe.Tile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Catastrophe.Tile.html",
+          "hash": "0sgPphwvRugXWroKwrLHoA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Catastrophe.Unit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Catastrophe.Unit.html",
+          "hash": "jxZHNxf6nF2JNVojIO+cyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Catastrophe.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Catastrophe.html",
+          "hash": "n9oplnl348xsxCTlOJecDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Checkers.AI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Checkers.AI.html",
+          "hash": "iup6Bp/FCdkvYdOrBu26mQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Checkers.Checker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Checkers.Checker.html",
+          "hash": "bWpoVlv5Q0LGgfW3bQQMjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Checkers.Game.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Checkers.Game.html",
+          "hash": "EZ6LmewUagTPV8+evxTqNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Checkers.GameObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Checkers.GameObject.html",
+          "hash": "hmtTbNb79v0OBt7EE39s0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Checkers.Player.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Checkers.Player.html",
+          "hash": "bJn5t98qMgyY094cOwsvPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Checkers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Checkers.html",
+          "hash": "jRdjcm1HnJW2XhbRkFslDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Chess.AI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Chess.AI.html",
+          "hash": "J5cape0pth9cky47exMhaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Chess.Game.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Chess.Game.html",
+          "hash": "RaiZXruQ1eJ9xR+HA+YoBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Chess.GameObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Chess.GameObject.html",
+          "hash": "UF/I0k/KaZQ6G4vyrd7u6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Chess.Player.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Chess.Player.html",
+          "hash": "iendLWfSmjjo3yCSyyGuSw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Chess.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Chess.html",
+          "hash": "TYbBHxvBP9ZOzYKRnp6Xjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Newtonian.AI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Newtonian.AI.html",
+          "hash": "uyAwHqqHmqf9JEa2Ng566g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Newtonian.Game.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Newtonian.Game.html",
+          "hash": "GGQzpAC8itovGtQfHveLWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Newtonian.GameObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Newtonian.GameObject.html",
+          "hash": "nnRcnU/hLLhSFH6PON8fwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Newtonian.Job.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Newtonian.Job.html",
+          "hash": "FKbSYELz292coF4rvjc+oQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Newtonian.Machine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Newtonian.Machine.html",
+          "hash": "xuXh8475Jj4Yuwc5+QrM/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Newtonian.Player.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Newtonian.Player.html",
+          "hash": "CfXeA8cKfGXf89g6Jh8CNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Newtonian.Tile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Newtonian.Tile.html",
+          "hash": "xaV73p2eAmAr3igNyhp+gw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Newtonian.Unit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Newtonian.Unit.html",
+          "hash": "2svPGZ06YFc6TA7XjMOkXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Newtonian.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Newtonian.html",
+          "hash": "n09EmEKZWl/jLWQx2AtbhQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Pirates.AI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Pirates.AI.html",
+          "hash": "vFE2Eu3hgUXbqJS4ww64yw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Pirates.Game.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Pirates.Game.html",
+          "hash": "1SAsob9aJF3fnumGMYZmMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Pirates.GameObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Pirates.GameObject.html",
+          "hash": "EwVEfS0TU7hWAZIN6Ntlsg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Pirates.Player.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Pirates.Player.html",
+          "hash": "Ouq+Fnaw3g61pY+oYdMl8g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Pirates.Port.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Pirates.Port.html",
+          "hash": "kaKUjGp1zWPHB/Ywdrx5UA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Pirates.Tile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Pirates.Tile.html",
+          "hash": "na4iJLY53YNaQrkJ58dAIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Pirates.Unit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Pirates.Unit.html",
+          "hash": "mz18doKWoyfRaPXP7efT6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Pirates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Pirates.html",
+          "hash": "D9R46tNK5GyGN7IK+RpYUA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Saloon.AI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Saloon.AI.html",
+          "hash": "jCyHgU5Nv1hxBtSSj7mPcw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Saloon.Bottle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Saloon.Bottle.html",
+          "hash": "t+hHHqdjuT8+JNuEWZSI/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Saloon.Cowboy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Saloon.Cowboy.html",
+          "hash": "Fc2xhl/1g5LG2zLBuUKGLw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Saloon.Furnishing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Saloon.Furnishing.html",
+          "hash": "/+3+hvNf7rLgA+KYsHZz1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Saloon.Game.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Saloon.Game.html",
+          "hash": "aluPsfCaolzyI5J7POnLLg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Saloon.GameObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Saloon.GameObject.html",
+          "hash": "Dq7X9wtlhH/WzedeFsK0hg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Saloon.Player.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Saloon.Player.html",
+          "hash": "BfC/5a3KHpR/NnVMlDybBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Saloon.Tile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Saloon.Tile.html",
+          "hash": "SlCS/qTekFEFse7rWFxAiw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Saloon.YoungGun.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Saloon.YoungGun.html",
+          "hash": "D8RvbH+stYEmynAomZH4/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Saloon.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Saloon.html",
+          "hash": "TirHRmSDg+dxNuz4tpRVYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Spiders.AI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Spiders.AI.html",
+          "hash": "Yi7JvmddgpTQaXDnSNOIcQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Spiders.BroodMother.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Spiders.BroodMother.html",
+          "hash": "B1r+usOV1INXXP6uDjacPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Spiders.Cutter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Spiders.Cutter.html",
+          "hash": "VMbZn1JLsN8XF3DWDiulKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Spiders.Game.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Spiders.Game.html",
+          "hash": "xEkUB2Qi265fdzBgl3U2xw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Spiders.GameObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Spiders.GameObject.html",
+          "hash": "aGYn1/euWALe8POoCzvYbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Spiders.Nest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Spiders.Nest.html",
+          "hash": "TCBz2UmIlbfc8+CLiiWvAg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Spiders.Player.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Spiders.Player.html",
+          "hash": "pG0CxJA2U1syFR+0XM9Qfw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Spiders.Spider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Spiders.Spider.html",
+          "hash": "kvKZVCdz8C2MN7PlVCOxRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Spiders.Spiderling.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Spiders.Spiderling.html",
+          "hash": "q6vmSMEidGOROGlRS0+bPQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Spiders.Spitter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Spiders.Spitter.html",
+          "hash": "qhcl9H6k1t5SpmAqPbWMkQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Spiders.Weaver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Spiders.Weaver.html",
+          "hash": "gzAdpAxrYfNaIQOXY5VhLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Spiders.Web.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Spiders.Web.html",
+          "hash": "TGVgDxFpYLCwbUsgFd2+ZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Spiders.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Spiders.html",
+          "hash": "6thtzPu2Hj6KCapVtKbIEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Stardash.AI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Stardash.AI.html",
+          "hash": "oy9EiT1V4h6vBDEzk1ri0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Stardash.Body.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Stardash.Body.html",
+          "hash": "3Op2+UkeBxaYK8WPCSz5Hw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Stardash.Game.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Stardash.Game.html",
+          "hash": "ntNMgJaGPKaDWsJH7s/T/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Stardash.GameObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Stardash.GameObject.html",
+          "hash": "JO1hHcsR6jTQ3U52qYrs8g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Stardash.Job.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Stardash.Job.html",
+          "hash": "xOlDpsORPe9K1qzYHF2yyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Stardash.Player.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Stardash.Player.html",
+          "hash": "jW6NwFxmpoytFpCfOX5uxA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Stardash.Projectile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Stardash.Projectile.html",
+          "hash": "eRc8AvtHmcwQzUgmIYu51g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Stardash.Unit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Stardash.Unit.html",
+          "hash": "OFOoCnufQQp15wTVFUceRg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Stardash.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Stardash.html",
+          "hash": "rYzWfH4+SbOWoR7cmzhdGg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Stumped.AI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Stumped.AI.html",
+          "hash": "iKHiXbY1LMQ44DHlIGwedQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Stumped.Beaver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Stumped.Beaver.html",
+          "hash": "sB9wsTHg1rNVAfAW6clElw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Stumped.Game.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Stumped.Game.html",
+          "hash": "XtkLt0stuMlplYJH6sLcTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Stumped.GameObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Stumped.GameObject.html",
+          "hash": "3S8/W17I1YXjUSezYGf9lg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Stumped.Job.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Stumped.Job.html",
+          "hash": "d/x2pkj3ZPqnoI4sNI6V2g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Stumped.Player.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Stumped.Player.html",
+          "hash": "CeirkgbOrIj69AbQr0TKKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Stumped.Spawner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Stumped.Spawner.html",
+          "hash": "+7ZzBmxLswUXpMxdoC78Nw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Stumped.Tile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Stumped.Tile.html",
+          "hash": "UkGLvOQEmnz3ybZlrbATKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.Games.Stumped.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.Games.Stumped.html",
+          "hash": "EUpTqCPdIupVBqcSdDeqag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "games/Joueur.cs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/Joueur.cs.html",
+          "hash": "/B3x49LM+E9JjoaodxpDRA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "games/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "games/index.html",
+          "hash": "JRa3Z6N99Ib5A2U4qsvmzQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "games/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "games/toc.html",
+          "hash": "jeGySI/nOgI+iN1o2Vmdmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "3zWtqFfkOmoyCt3jj2a7Wg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "dmhPkUzxt8XKRjlPRBhiww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 110,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
